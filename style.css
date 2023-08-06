@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body{
+
+font-family: 'Open Sans', sans-serif;
+
+}
+
+main{
+    
+    size: 100%;
+    
+    
+    
+    
+}
+
+body{
+  background-color: #000000;  
+  background-image: url(https://i.imgur.com/B7cLrNg.jpg);
+    background-size: cover;
+    size: 100%;
+  }
+
+header{
+    
+    size: 90%;
+}
+
+footer{
+  
+  
+    size: 90%;
+    color: white;
+    
+    
+}
+
+
+    
+  
+
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    margin-right: 320px;
+    margin-left: 320px;
+    text-decoration: underline;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+    
+    
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white; 
+    padding: 10px;
+    
+  }
+
+  hr{
+    
+    border-color: rgba(77, 4, 92, .2);
+  }
+
+#logodelapagina{
+    height: 2%;
+    text-align: center;
+    
+}
+
+
+
+
+#casilla1{
+    
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: -1px 0 rgb(53, 1, 63), 0 1px rgb(53, 1, 63),
+        1px 0 rgb(53, 1, 63), 0 -1px rgb(53, 1, 63)
+   
+}
+
+
+  #contacto ul li {
+    margin: 0 10px;
+    
+  }
+
+  #contacto ul  {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+
+  #contacto{
+    text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  }
+
+  #contacto h2{
+    
+    text-shadow: 0.2em 0.5em 0.1em rgb(77, 4, 92),
+        -0.3em 0.1em 0.1em rgb(56, 1, 63),
+        0.4em -0.3em 0.1em rgb(53, 2, 40)
+      
+}
+
+
+#contacto ul li a img{
+  height: 50px;
+  width: 50px;
+}
+
+
+
+  #cuerpo1{
+    margin: 10px;
+    color: white;
+  }
+
+  #mivida{
+    text-align: center;
+    font-size: 16px;
+    color: white;
+   
+
+  }
+
+  #proyectos1{
+    list-style: none;
+    display: flex;
+    color: white;
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+.lista1{
+    flex: 1;
+    border: 1px solid rgba(77, 4, 92, .2);
+    padding: 10px;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+}
+
+.lista2 {
+    flex: 1;
+    border: 1px solid rgba(77, 4, 92, .2);
+    padding: 10px;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+
+}
+
+#propuestas {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#sobre-mi{
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+.nirvana{
+  margin-top: 100px;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  
+}
+
+.nirvana a{
+  color: white;
+  text-decoration: none;
+}
+
+#proyectos{
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#Ecolifesection{
+  list-style: none;
+  display: flex;
+  color: white;
+  padding: 0;
+  margin: 0;
+  
+}
+
+
+.Ecolifelista{
+  flex: 1;
+  border: 1px solid rgba(77, 4, 92, .2);
+  padding: 10px;
+  border-top-right-radius: 5%;
+  border-bottom-right-radius: 5%;
+}
+
+.Ecolifeparrafo{
+  flex: 1;
+  border: 1px solid rgba(77, 4, 92, .2);
+  padding: 10px;
+  border-top-left-radius: 5%;
+  border-bottom-left-radius: 5%;
+  text-align: center;
+}
+
+
+.Ecolifeparrafo img{
+  width: 100%;
+  
+}
+
+#logardos{
+  height: 50%;
+  width: 50%;
+}
+
+#cuerpo1{
+  text-align: center;
+}
